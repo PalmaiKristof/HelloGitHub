@@ -13,5 +13,7 @@ namespace HelloGitHub
         public int Age { get; set; }
 
         public string Job { get; set; }
+
+        public bool HaveGlasses { get; set; }
     }
 }
